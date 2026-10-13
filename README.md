@@ -49,9 +49,17 @@ The project is in progress. Each repository has a separate role:
 | **`fider-infra`** | Provision AWS networking, EKS, RDS PostgreSQL, ECR, S3 and IAM using Terraform. Validate infrastructure changes in CI, including Checkov scans, and manage remote Terraform state in S3. | AWS, Terraform, GitHub Actions, Checkov |
 | **`fider-gitops`** | Define Helm charts and environment values for dev, test and prod. Use Argo CD to sync the configuration in Git to EKS and promote the same container image through the environments. | Kubernetes, Helm, Argo CD |
 
-### 🎯 Further Project Goals
+### architecture diagram
 
-- HTTPS and domain routing with ACM, Route 53 and ExternalDNS.
-- Secret management with AWS Secrets Manager and External Secrets.
-- Metrics and dashboards with Prometheus and Grafana.
-- Document the architecture, deployment process and troubleshooting as the project develops.
+
+
+<img width="1536" height="1024" alt="F98E80BA-E2DC-4F63-ACA3-100024B0139F" src="https://github.com/user-attachments/assets/ea84227d-030f-4d1a-9e60-41eeb2edc329" />
+
+
+
+
+
+
+
+
+

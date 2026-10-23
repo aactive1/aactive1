@@ -56,6 +56,12 @@ The project is in progress. Each repository has a separate role:
 <img width="1536" height="1024" alt="F98E80BA-E2DC-4F63-ACA3-100024B0139F" src="https://github.com/user-attachments/assets/ea84227d-030f-4d1a-9e60-41eeb2edc329" />
 
 
+## 🔥 GitHub Contributions
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aactive1&theme=dark)
+
+
+
 
 
 
